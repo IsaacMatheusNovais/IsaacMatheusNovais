@@ -1,4 +1,4 @@
-~Olá! me chamo Isaac, aqui vão algumas coisas sobre mim 🙂
+<h1> ~Olá! me chamo Isaac, aqui vão algumas coisas sobre mim 🙂 </h1>
 
 - Atualmente estou me decobrindo como programador, então estudo tanto Back quanto Front-end 🤩💕
 - As linguagens que tenho mais domínio até agora são: HTML, CSS, JS e JAVA 👨‍💻
