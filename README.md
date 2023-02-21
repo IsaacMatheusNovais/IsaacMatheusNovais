@@ -17,8 +17,8 @@
 <img alt = "Logo-CSS" height= 38px width = 48px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img alt = "Logo-Js" height= 30px width = 40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />      
 <img alt = "Logo-JAVA" height= 30px width = 40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-</div>
-
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif">
+  
 ##
 
 <div> 
