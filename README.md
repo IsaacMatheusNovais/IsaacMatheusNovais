@@ -23,15 +23,6 @@ Atualmente estudo e desenvolvo projetos utilizando Python, PostgreSQL, APIs REST
 * Desenvolvimento Backend
 * Tecnologia aplicada a negócios
 
-## GitHub Stats
-
-<div>
-  <a href="https://github.com/IsaacMatheusNovais">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacMatheusNovais&show_icons=true&theme=tokyonight&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMatheusNovais&layout=compact&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
-
 ## Contato
 
 <div>
