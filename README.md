@@ -1,27 +1,45 @@
-<h1> ~Olá! me chamo Isaac, aqui vão algumas coisas sobre mim 🙂 </h1>
+# Olá, eu sou Isaac Matheus 👋
 
-- Atualmente estou me decobrindo como programador, então estudo tanto Back quanto Front-end 🤩💕
-- As linguagens que tenho mais domínio até agora são: HTML, CSS, JS e JAVA 👨‍💻
-- Meus pronomes são : Ele/Dele 👨🏻💙 
-- Estudo um pouco de tudo e tenho uma boa base com experiência em administração e rotinas administrativas 👨‍💼🏤
+Estudante de Análise e Desenvolvimento de Sistemas pela FATEC Indaiatuba, com foco em automação de processos, integração de sistemas e tecnologia aplicada ao negócio.
 
-##
+Atualmente estudo e desenvolvo projetos utilizando Python, PostgreSQL, APIs REST e automações, buscando criar soluções práticas voltadas à otimização de processos e inovação.
 
-| <a href="https://github.com/IsaacMatheusNovais/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=IsaacMatheusNovais&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/IsaacMatheusNovais/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMatheusNovais&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+## Tecnologias
 
-##
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div>
 
-<div style="display inline_block">
-<img alt = "Logo-HTML" height= 38px, width = 48px, src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img alt = "Logo-CSS" height= 38px width = 48px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img alt = "Logo-Js" height= 30px width = 40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />      
-<img alt = "Logo-JAVA" height= 30px width = 40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif">
-  
-##
+## Áreas de Interesse
 
-<div> 
-  <a href="https://instagram.com/isaac_matheus.zip" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:isaacmatheusnovais@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in//isaac-matheus-210976237" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+* Automação de Processos
+* Integração de Sistemas
+* Inteligência Artificial aplicada
+* Desenvolvimento Backend
+* Tecnologia aplicada a negócios
+
+## GitHub Stats
+
+<div>
+  <a href="https://github.com/IsaacMatheusNovais">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacMatheusNovais&show_icons=true&theme=tokyonight&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMatheusNovais&layout=compact&theme=tokyonight&hide_border=true"/>
+  </a>
+</div>
+
+## Contato
+
+<div>
+  <a href="mailto:isaacmatheusnovais@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/isaac-matheus-novais/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
